@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Add anime to favorite page</name>
+   <name>Add_Remove from favorite page</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>80e305b5-2bcd-47fc-b48e-3efd943d7d39</testCaseGuid>
+   <testCaseGuid>65567de2-3461-4ac1-ac47-00f11af15923</testCaseGuid>
 </TestCaseEntity>

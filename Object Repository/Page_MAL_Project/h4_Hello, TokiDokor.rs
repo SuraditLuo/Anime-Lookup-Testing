@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_submit</name>
+   <name>h4_Hello, TokiDokor</name>
    <tag></tag>
-   <elementGuidId>722472f0-97ad-44c0-9fdd-6e953855369f</elementGuidId>
+   <elementGuidId>f886d17c-a5eb-4efd-a75b-d4dd88f10fd6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/span/button</value>
+         <value>//div[@id='app']/div/span/h4</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button</value>
+         <value>h4</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>0e8017f1-29fe-412d-9602-5cc014f8510b</webElementGuid>
+      <value>h4</value>
+      <webElementGuid>fbeb9d23-d4ae-482d-b1f8-9997ef0c2020</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>8cf0cce2-5d83-44c8-9075-0f02c7095439</webElementGuid>
+      <value>Hello, TokiDokor</value>
+      <webElementGuid>08dd1ea3-5823-4b5b-8bb9-1eec5aa30bcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/span[1]/button[1]</value>
-      <webElementGuid>e82c5093-ad11-4837-b9a9-3ba2e4c05000</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;home&quot;]/span[1]/h4[1]</value>
+      <webElementGuid>898039a4-f315-4550-a06f-aad3443c3839</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/span/button</value>
-      <webElementGuid>d5008644-96b8-4a0e-9e23-546e08d68e5f</webElementGuid>
+      <value>//div[@id='app']/div/span/h4</value>
+      <webElementGuid>ac25da18-0563-4e02-842e-530b8b4b6bd1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discovery'])[1]/following::button[1]</value>
-      <webElementGuid>d35d887c-9f87-4c6f-803e-1ed67c5082b9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log out'])[1]/following::h4[1]</value>
+      <webElementGuid>cc103419-6d0e-42e5-be5c-97061c2b6b70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anime Lookup'])[1]/following::button[1]</value>
-      <webElementGuid>951133c4-f3eb-40f1-ab7a-38e4a32160ce</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favorite'])[1]/following::h4[1]</value>
+      <webElementGuid>7c387024-0c61-4dfd-ad6a-1cab31bcfacf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'app', '&quot;', ')/span[1]/button[1]')])[1]/preceding::button[1]</value>
-      <webElementGuid>f0adf8ab-e960-4fe2-b14f-8c4eeeed03fb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search by:'])[1]/preceding::h4[1]</value>
+      <webElementGuid>8bbff91c-bb25-4a83-9463-95929d16e64d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='submit']/parent::*</value>
-      <webElementGuid>5c484aa0-1be0-412b-a1f9-913690a097bb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/preceding::h4[1]</value>
+      <webElementGuid>edcb9353-e8e8-45dd-9492-f06b409a336e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hello, TokiDokor']/parent::*</value>
+      <webElementGuid>a645a693-4350-4c1e-8155-7256b0b7a8bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>64fea78a-d9de-4672-b9e0-b1a02ebe1b16</webElementGuid>
+      <value>//h4</value>
+      <webElementGuid>af036d97-6809-4880-bce7-2281b2e70433</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'submit' or . = 'submit')]</value>
-      <webElementGuid>f6d1f488-4827-4e45-85e0-dac037af9808</webElementGuid>
+      <value>//h4[(text() = 'Hello, TokiDokor' or . = 'Hello, TokiDokor')]</value>
+      <webElementGuid>aebe07df-9042-4ef7-8784-c3237918923c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

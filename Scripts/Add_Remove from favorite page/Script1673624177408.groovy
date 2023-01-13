@@ -33,6 +33,8 @@ WebUI.setText(findTestObject('Object Repository/Page_MAL_Project/input_Descripti
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_MAL_Project/input_Description_search-field'), Keys.chord(Keys.ENTER))
 
+WebUI.waitForPageLoad(5)
+
 WebUI.click(findTestObject('Object Repository/Page_MAL_Project/img'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_MAL_Project/select_Score012345678910'), '7', true)
@@ -44,6 +46,8 @@ WebUI.click(findTestObject('Object Repository/Page_MAL_Project/a_Favorite'))
 WebUI.click(findTestObject('Object Repository/Page_MAL_Project/button_-'))
 
 WebUI.click(findTestObject('Object Repository/Page_MAL_Project/nav_Anime LookupDiscoveryFavoriteLog out'))
+
+WebUI.waitForElementNotPresent(findTestObject('Page_MAL_Project/button_-'), 3)
 
 WebUI.closeBrowser()
 

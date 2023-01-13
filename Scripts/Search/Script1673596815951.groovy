@@ -29,6 +29,8 @@ WebUI.setText(findTestObject('Object Repository/Page_MAL_Project/input_Descripti
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_MAL_Project/input_Description_search-field'), Keys.chord(Keys.ENTER))
 
+WebUI.waitForElementVisible(findTestObject('Page_MAL_Project/div_anime_card'), 4)
+
 WebUI.click(findTestObject('Object Repository/Page_MAL_Project/div_anime_card'))
 
 WebUI.closeBrowser()
