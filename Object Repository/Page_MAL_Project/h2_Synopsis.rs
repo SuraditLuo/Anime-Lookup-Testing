@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_submit</name>
+   <name>h2_Synopsis</name>
    <tag></tag>
-   <elementGuidId>722472f0-97ad-44c0-9fdd-6e953855369f</elementGuidId>
+   <elementGuidId>a8610da4-6a04-4626-b017-a0a8a69ee09e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/span/button</value>
+         <value>//div[@id='app']/div[2]/div/h2</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button</value>
+         <value>div.anime-synopsis > h2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>73f74fde-9ef9-4793-bf36-a45c7f03c20b</webElementGuid>
+      <value>h2</value>
+      <webElementGuid>bd30bb7e-58c5-425a-88c5-f2206ece6090</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>51a6441a-1fe4-4b4a-956d-579ecd6cc4ae</webElementGuid>
+      <value>Synopsis</value>
+      <webElementGuid>83ba4260-571b-4734-9c2a-a10318ed7cbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/span[1]/button[1]</value>
-      <webElementGuid>8db442fa-06e0-45ff-826a-4848346772f3</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;anime-description&quot;]/div[@class=&quot;anime-synopsis&quot;]/h2[1]</value>
+      <webElementGuid>b5c20aac-1af6-4018-a962-89c2709fa2e0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/span/button</value>
-      <webElementGuid>65b9c2ab-dce3-4a1e-9634-d74cec691ecc</webElementGuid>
+      <value>//div[@id='app']/div[2]/div/h2</value>
+      <webElementGuid>2c93b614-2d72-43d6-b5ad-c97dae701b73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discovery'])[1]/following::button[1]</value>
-      <webElementGuid>2832a359-55b1-4b11-92df-0b1b04316f18</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to list'])[1]/following::h2[1]</value>
+      <webElementGuid>810fd5cb-7db8-4bbc-8bfc-6708ca3e3a69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anime Lookup'])[1]/following::button[1]</value>
-      <webElementGuid>58411589-a7a4-49a2-b287-4a08ee2d701c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watch trailer'])[1]/preceding::h2[1]</value>
+      <webElementGuid>aa7578b9-eb28-41fb-a314-9ce790e50a4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'app', '&quot;', ')/span[1]/button[1]')])[1]/preceding::button[1]</value>
-      <webElementGuid>d20d7526-f79f-48cf-bf72-5a732f09208c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='submit']/parent::*</value>
-      <webElementGuid>9a627a1f-09f8-4c38-885e-8b781e44c06b</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Synopsis']/parent::*</value>
+      <webElementGuid>46174f07-38f6-4c09-bbd5-b44709d5919b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>f4d0c155-8639-4573-b4db-ce9e17e831cf</webElementGuid>
+      <value>//div[2]/div/h2</value>
+      <webElementGuid>9d96aa93-c29b-4147-8da7-88a8cf9ff90d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'submit' or . = 'submit')]</value>
-      <webElementGuid>abd0a211-12c5-4cbd-8834-dc130e52d82d</webElementGuid>
+      <value>//h2[(text() = 'Synopsis' or . = 'Synopsis')]</value>
+      <webElementGuid>e64c0e65-69a5-4c6d-9eaa-a8f387148db3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

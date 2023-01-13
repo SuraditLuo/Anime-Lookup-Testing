@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Yuru CampYuru Camp Season 2Yuru YuriYur_78daa5</name>
+   <name>div_anime_card</name>
    <tag></tag>
    <elementGuidId>15c8501d-8d96-4fee-8bf6-2af031f83460</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.anime-cards</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='app']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.anime-cards</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

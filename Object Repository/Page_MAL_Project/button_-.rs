@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_submit</name>
+   <name>button_-</name>
    <tag></tag>
-   <elementGuidId>80b10fea-e2a4-47a8-9c0a-a36646863778</elementGuidId>
+   <elementGuidId>61bb2ab3-3e1b-4a05-ae8d-6c4dd62aa3df</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button</value>
+         <key>XPATH</key>
+         <value>//div[@id='app']/table/tr[2]/td[4]/button</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/span/button</value>
+         <key>CSS</key>
+         <value>button.remove</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,63 +22,63 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c8f0bb6a-7d53-42b8-889f-51fb75ba8798</webElementGuid>
+      <webElementGuid>ce942697-7b77-406b-a8ce-eefa0aa95c43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>remove</value>
+      <webElementGuid>9d249ba7-fad0-4d5a-96e1-b93c23346c1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>9a78f0dd-7327-4c66-a034-9e1a0fbf85e7</webElementGuid>
+      <value>-</value>
+      <webElementGuid>3bf99b2a-f6a0-43e5-9426-75bb442f6aa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/span[1]/button[1]</value>
-      <webElementGuid>03f84fd5-bf7c-40b9-a198-9f6f6d0642a6</webElementGuid>
+      <value>id(&quot;app&quot;)/table[@class=&quot;favorites-list&quot;]/tr[@class=&quot;favorites-detail&quot;]/td[4]/button[@class=&quot;remove&quot;]</value>
+      <webElementGuid>4c3270c8-54d7-49b2-8d63-f220d051170f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/span/button</value>
-      <webElementGuid>00c907b5-8f61-4f43-8514-995d475b399b</webElementGuid>
+      <value>//div[@id='app']/table/tr[2]/td[4]/button</value>
+      <webElementGuid>367d89cb-5481-4127-ac2c-f4c7a8fa0313</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discovery'])[1]/following::button[1]</value>
-      <webElementGuid>2f616e04-3dfb-4859-a9c2-c5ff262df769</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lycoris Recoil'])[1]/following::button[1]</value>
+      <webElementGuid>0cc421d4-cc9c-4971-9c15-38624b540ffc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anime Lookup'])[1]/following::button[1]</value>
-      <webElementGuid>dd75f92e-aadb-4ca7-b43e-119343897f88</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove from list'])[1]/following::button[1]</value>
+      <webElementGuid>9d1fba9c-ac2d-4380-b4d1-676cd6fb7331</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'app', '&quot;', ')/span[1]/button[1]')])[1]/preceding::button[1]</value>
-      <webElementGuid>44ce6b96-ca46-4426-a4b2-bbe27cd315d1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='submit']/parent::*</value>
-      <webElementGuid>c89a451b-a341-4504-83a1-0b67a93fd9e7</webElementGuid>
+      <value>//*/text()[normalize-space(.)='-']/parent::*</value>
+      <webElementGuid>64d6e093-a320-4fa2-8fbe-9781944295f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,14 +86,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>34c4c60c-5748-4439-a77c-cc8f67ec8130</webElementGuid>
+      <webElementGuid>c482f269-a969-4d47-8ac1-a50b2549e6b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'submit' or . = 'submit')]</value>
-      <webElementGuid>3a712c5e-a586-497e-bc28-a771ad9793c2</webElementGuid>
+      <value>//button[(text() = '-' or . = '-')]</value>
+      <webElementGuid>b7f182b4-bef3-41f8-9d0d-1293693cb120</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

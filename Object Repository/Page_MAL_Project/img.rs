@@ -6,12 +6,12 @@
    <elementGuidId>01c90d3f-0ad1-4992-90c2-e6969070ae2a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img[alt=&quot;Vue logo&quot;]</value>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/a/a/div/img</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/img</value>
+         <key>CSS</key>
+         <value>img[alt=&quot;Lycoris Recoil Poster&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,34 +22,66 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>81424154-5412-4dd3-8252-a0800fc0621c</webElementGuid>
+      <webElementGuid>ed833698-ffe2-4628-bd3f-5d3c52bc2c74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>Vue logo</value>
-      <webElementGuid>c3499b50-be35-45b3-b0d5-a28109f8d43e</webElementGuid>
+      <value>Lycoris Recoil Poster</value>
+      <webElementGuid>3a365467-3443-4647-9a44-ba2206294d39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/img/bocchi.fe47b50d.gif</value>
-      <webElementGuid>76bcee82-c23e-456d-8d02-233ab2e245d8</webElementGuid>
+      <value>https://cdn.myanimelist.net/images/anime/1392/124401.jpg</value>
+      <webElementGuid>ff286ed5-584d-4a48-9927-8c69e5493cdb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;home&quot;]/img[1]</value>
-      <webElementGuid>d9a00b15-dc98-4d57-afa9-3c05d5b5097b</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;centered&quot;]/div[@class=&quot;anime-cards&quot;]/a[@class=&quot;card&quot;]/a[1]/div[@class=&quot;image-container&quot;]/img[1]</value>
+      <webElementGuid>3e9458f4-7c49-4c6d-8b20-97f15bfa0fe4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/a/a/div/img</value>
+      <webElementGuid>005c0a22-c8ca-40e3-88d6-f42770799fbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Lycoris Recoil Poster']</value>
+      <webElementGuid>2b2a0cc8-3f7d-43a5-a951-89f3c86c3424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/img</value>
+      <webElementGuid>cc326a4c-68b5-43c4-9573-a6d5974f29c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.myanimelist.net/images/anime/1392/124401.jpg' and @alt = 'Lycoris Recoil Poster']</value>
+      <webElementGuid>8cb71dd7-1109-4e95-882d-7981567ff07c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

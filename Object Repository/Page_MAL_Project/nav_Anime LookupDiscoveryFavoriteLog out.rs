@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nav_Anime LookupDiscoveryFavoriteLog out</name>
+   <tag></tag>
+   <elementGuidId>0edba4f0-09c3-4385-a11c-6a273d1a3d90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/nav</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nav</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nav</value>
+      <webElementGuid>a5fd40f0-32a6-41fc-b948-b0093c744656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anime LookupDiscoveryFavoriteLog out</value>
+      <webElementGuid>ae6281d7-c613-4e47-a375-48563c1b491f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/nav[1]</value>
+      <webElementGuid>cb8d27b6-9e90-4bf5-93d2-387dd49f930c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/nav</value>
+      <webElementGuid>8ecdefcd-cbd4-4b5c-9d11-0e3e72006c47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav</value>
+      <webElementGuid>59d03ae4-6faf-45ed-9bcc-f0bb2c32d47f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nav[(text() = 'Anime LookupDiscoveryFavoriteLog out' or . = 'Anime LookupDiscoveryFavoriteLog out')]</value>
+      <webElementGuid>e3f3d8c4-645d-4930-b36e-601818435dcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

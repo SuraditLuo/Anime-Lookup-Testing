@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_1</name>
+   <name>usernameInput</name>
    <tag></tag>
-   <elementGuidId>14c84b60-2d40-4675-b458-598146048c0e</elementGuidId>
+   <elementGuidId>53048ff3-d8fb-4930-80d0-e7e98fecdf71</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@type='text'])[2]</value>
+         <key>CSS</key>
+         <value>input[type=&quot;text&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>075bcc05-6052-480b-867d-384a0f7a523e</webElementGuid>
+      <webElementGuid>548a652c-3dc4-46c6-842e-38adf830d3a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Enter password:</value>
-      <webElementGuid>d8d5cd2a-a2f3-4cd9-a7dc-b63e21ee4e80</webElementGuid>
+      <value>Enter username:</value>
+      <webElementGuid>4dcf0504-0c81-4f0b-9937-f4d0e5619aa8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,46 +38,46 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>536c54c8-229e-424a-8708-8d1fd642a125</webElementGuid>
+      <webElementGuid>5ad5c194-b717-4f53-a975-2935f3fdcc4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;input&quot;]/input[2]</value>
-      <webElementGuid>d2072eee-72a0-4b52-9212-a37cc362ee85</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;input&quot;]/input[1]</value>
+      <webElementGuid>77c606cb-13b1-44ac-8973-a155b2ab6819</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@type='text'])[2]</value>
-      <webElementGuid>f2b577a4-f61e-4f58-9be9-e03bcd04b2ee</webElementGuid>
+      <value>//input[@type='text']</value>
+      <webElementGuid>89df3f13-f2c0-40d3-88e9-6430d0600ff5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div[2]/input[2]</value>
-      <webElementGuid>fc1d5ce2-e62c-48bd-9095-81ded11ecb13</webElementGuid>
+      <value>//div[@id='app']/div[2]/input</value>
+      <webElementGuid>88245340-e060-4643-a9a5-f30fe79fee91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input[2]</value>
-      <webElementGuid>10e3de4a-69a8-4f03-9cf6-341ef9f94e8e</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>fd3a3aa2-59f5-44a7-bc1a-606efa322a3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@placeholder = 'Enter password:' and @type = 'text']</value>
-      <webElementGuid>a249a2e6-f01c-4889-ad15-5351a97d8f03</webElementGuid>
+      <value>//input[@placeholder = 'Enter username:' and @type = 'text']</value>
+      <webElementGuid>0ad81c5d-1d01-4259-8f0d-f8526c3b4fdd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

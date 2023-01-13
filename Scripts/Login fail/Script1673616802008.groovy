@@ -21,15 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.click(findTestObject('Object Repository/Page_MAL_Project/button_Description'))
+WebUI.click(findTestObject('Object Repository/Page_MAL_Project/a_Log in'))
 
-WebUI.click(findTestObject('Object Repository/Page_MAL_Project/button_Title'))
+WebUI.setText(findTestObject('Object Repository/Page_MAL_Project/usernameInput'), 'USER')
 
-WebUI.setText(findTestObject('Object Repository/Page_MAL_Project/input_Description_search-field'), 'yuru')
+WebUI.setText(findTestObject('Object Repository/Page_MAL_Project/passwordInput'), '123')
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_MAL_Project/input_Description_search-field'), Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/Page_MAL_Project/div_anime_card'))
+WebUI.click(findTestObject('Object Repository/Page_MAL_Project/login_button_submit'))
 
 WebUI.closeBrowser()
 

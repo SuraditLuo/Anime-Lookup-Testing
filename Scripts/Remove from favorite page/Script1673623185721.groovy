@@ -21,15 +21,29 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.click(findTestObject('Object Repository/Page_MAL_Project/button_Description'))
+WebUI.click(findTestObject('Object Repository/Page_MAL_Project/a_Log in'))
 
-WebUI.click(findTestObject('Object Repository/Page_MAL_Project/button_Title'))
+WebUI.setText(findTestObject('Object Repository/Page_MAL_Project/input'), 'TokiDokor')
 
-WebUI.setText(findTestObject('Object Repository/Page_MAL_Project/input_Description_search-field'), 'yuru')
+WebUI.setText(findTestObject('Object Repository/Page_MAL_Project/input_1'), 'Milk@081')
+
+WebUI.click(findTestObject('Object Repository/Page_MAL_Project/button_submit'))
+
+WebUI.setText(findTestObject('Object Repository/Page_MAL_Project/input_Description_search-field'), 'lycoris')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_MAL_Project/input_Description_search-field'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Page_MAL_Project/div_anime_card'))
+WebUI.click(findTestObject('Object Repository/Page_MAL_Project/img'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_MAL_Project/select_Score012345678910'), '7', true)
+
+WebUI.click(findTestObject('Object Repository/Page_MAL_Project/button_Add to list'))
+
+WebUI.click(findTestObject('Object Repository/Page_MAL_Project/a_Favorite'))
+
+WebUI.click(findTestObject('Object Repository/Page_MAL_Project/button_-'))
+
+WebUI.click(findTestObject('Object Repository/Page_MAL_Project/nav_Anime LookupDiscoveryFavoriteLog out'))
 
 WebUI.closeBrowser()
 

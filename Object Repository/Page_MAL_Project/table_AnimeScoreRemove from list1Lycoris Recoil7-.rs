@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>table_AnimeScoreRemove from list1Lycoris Recoil7-</name>
+   <tag></tag>
+   <elementGuidId>7e364fce-765d-4c40-90c3-95b9650218a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/table</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>table.favorites-list</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>table</value>
+      <webElementGuid>11051b13-1c30-4ff0-9e2b-c61936a4a73e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>favorites-list</value>
+      <webElementGuid>612b5a06-8584-4f88-b37e-e9936d63cdaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>#AnimeScoreRemove from list1Lycoris Recoil7-</value>
+      <webElementGuid>e0634299-485f-4583-ad35-3c12bbd50d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/table[@class=&quot;favorites-list&quot;]</value>
+      <webElementGuid>ea8bf798-156c-4ef5-9635-5ef21cd63a0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/table</value>
+      <webElementGuid>b92b76bd-b3a3-44c0-abd8-6448a739b3aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log out'])[1]/following::table[1]</value>
+      <webElementGuid>0ba5e7a7-d1c9-431d-a899-669342f1e6e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favorite'])[1]/following::table[1]</value>
+      <webElementGuid>31b4cc60-1570-469a-9f5e-84db37ee4482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table</value>
+      <webElementGuid>0c70f2f7-5062-4327-a147-15568db02ef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//table[(text() = '#AnimeScoreRemove from list1Lycoris Recoil7-' or . = '#AnimeScoreRemove from list1Lycoris Recoil7-')]</value>
+      <webElementGuid>cebe01c4-b345-4d3d-8953-99f8e58ce703</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

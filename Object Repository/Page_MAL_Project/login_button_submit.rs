@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_submit</name>
+   <name>login_button_submit</name>
    <tag></tag>
-   <elementGuidId>722472f0-97ad-44c0-9fdd-6e953855369f</elementGuidId>
+   <elementGuidId>14e55a73-2959-4149-b2d5-b56e9ceb6a19</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>73f74fde-9ef9-4793-bf36-a45c7f03c20b</webElementGuid>
+      <webElementGuid>95fda30b-e904-49d6-ade5-b901407d1fa1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>51a6441a-1fe4-4b4a-956d-579ecd6cc4ae</webElementGuid>
+      <webElementGuid>4f24f03d-a144-4666-a536-9670455b8671</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/span[1]/button[1]</value>
-      <webElementGuid>8db442fa-06e0-45ff-826a-4848346772f3</webElementGuid>
+      <webElementGuid>52d4240b-b230-475f-a8eb-2572a82ce0fb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/span/button</value>
-      <webElementGuid>65b9c2ab-dce3-4a1e-9634-d74cec691ecc</webElementGuid>
+      <webElementGuid>24894f81-b51d-47e9-8b60-cf94dda4b332</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Discovery'])[1]/following::button[1]</value>
-      <webElementGuid>2832a359-55b1-4b11-92df-0b1b04316f18</webElementGuid>
+      <webElementGuid>fc306f8a-aaf8-4533-b44a-7373b4e407b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Anime Lookup'])[1]/following::button[1]</value>
-      <webElementGuid>58411589-a7a4-49a2-b287-4a08ee2d701c</webElementGuid>
+      <webElementGuid>54684e1d-e9a0-4a13-bd21-4edc8c3429ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'app', '&quot;', ')/span[1]/button[1]')])[1]/preceding::button[1]</value>
-      <webElementGuid>d20d7526-f79f-48cf-bf72-5a732f09208c</webElementGuid>
+      <webElementGuid>a07b1e65-fc02-45dd-a39f-2c26183a5531</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='submit']/parent::*</value>
-      <webElementGuid>9a627a1f-09f8-4c38-885e-8b781e44c06b</webElementGuid>
+      <webElementGuid>1218d4ab-7753-4925-9dc6-d61bccb19528</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>f4d0c155-8639-4573-b4db-ce9e17e831cf</webElementGuid>
+      <webElementGuid>73b9621a-dac4-4344-ba58-6c893ca71c1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'submit' or . = 'submit')]</value>
-      <webElementGuid>abd0a211-12c5-4cbd-8834-dc130e52d82d</webElementGuid>
+      <webElementGuid>068d420c-16f3-40ee-b988-9d6c5f6fbf86</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

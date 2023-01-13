@@ -6,12 +6,12 @@
    <elementGuidId>26bb949f-3ffa-4054-8045-d306d752abbd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.login-button</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='app']/nav/span[2]/span/a/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.login-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2a0a744a-e21c-4d70-8b3f-0ddc158d77b7</webElementGuid>
+      <webElementGuid>44fbe8d7-310a-49be-bf45-1321a969afb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>login-button</value>
-      <webElementGuid>13c9e4b4-05a0-46c6-920f-150690bab8f3</webElementGuid>
+      <webElementGuid>4b9df801-c765-4c11-b651-2af3514e8706</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Log in</value>
-      <webElementGuid>76217377-ea0f-4a02-99d8-761e689f68a5</webElementGuid>
+      <webElementGuid>d69a1688-46b1-4cb5-8fc9-f6528b43233c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/nav[1]/span[2]/span[1]/a[1]/a[@class=&quot;login-button&quot;]</value>
-      <webElementGuid>e2cee915-ca56-4ac3-a943-5a581b4ead61</webElementGuid>
+      <webElementGuid>abc301c8-8070-412f-a764-aaf135e633b0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/nav/span[2]/span/a/a</value>
-      <webElementGuid>18a1a0f1-7cb5-40a5-ad76-0dd7684eaaa9</webElementGuid>
+      <webElementGuid>ad3a55eb-08dc-4ab8-b217-c66a78f8618b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Log in')]</value>
-      <webElementGuid>05f26b7a-3e1d-4b1d-9871-7d7bc3ff708a</webElementGuid>
+      <webElementGuid>f99ee5e1-bd9e-493c-8215-790c24d5d30f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Discovery'])[1]/following::a[2]</value>
-      <webElementGuid>1bc78c52-0f0d-4da8-99cb-46685c231ccd</webElementGuid>
+      <webElementGuid>8b8ec790-854b-410b-b714-035086b0c83e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Anime Lookup'])[1]/following::a[3]</value>
-      <webElementGuid>3e9faf07-e969-4fa0-b6d1-69b53524a927</webElementGuid>
+      <webElementGuid>da6a817b-193a-489a-b737-08682ce750bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search by:'])[1]/preceding::a[1]</value>
-      <webElementGuid>237b40a0-2a9b-40ff-9090-520aed6bacaf</webElementGuid>
+      <webElementGuid>394786a5-513f-4554-a182-ebea89d936be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/preceding::a[1]</value>
-      <webElementGuid>3d546036-6eeb-4308-9473-f16d9d8c89d0</webElementGuid>
+      <webElementGuid>a77d01b0-8e8d-4cbb-9686-53ee8baf3bbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>11fd4ab1-10e3-43fa-8f6a-0409880dc10d</webElementGuid>
+      <webElementGuid>97a33e43-c4eb-40d4-bbb6-bb45a4c6044d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/span/a/a</value>
-      <webElementGuid>4ccfe50e-c492-41eb-8585-843cd374bb19</webElementGuid>
+      <webElementGuid>f8b2c4e0-050c-4fe5-87fb-61867855f5b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>62aa6e18-753e-428f-83d3-e674a47c5dbb</webElementGuid>
+      <webElementGuid>54e52363-ecf4-43a6-b805-c8da808e6c60</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

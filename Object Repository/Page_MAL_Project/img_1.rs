@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_1</name>
+   <name>img_1</name>
    <tag></tag>
-   <elementGuidId>9a81177d-de24-46e4-a05d-9e6560dbe841</elementGuidId>
+   <elementGuidId>85ef2fbd-763a-4ffb-abdf-149a9f6bbf64</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='text'])[2]</value>
+         <value>//div[@id='app']/div/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,63 +21,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>0ff16497-b38b-4ca7-8dcf-3d704e0e570d</webElementGuid>
+      <value>img</value>
+      <webElementGuid>6388ed7f-9f01-4286-bc91-f40a83c88c81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>src</name>
       <type>Main</type>
-      <value>Enter password:</value>
-      <webElementGuid>ae2b9231-c5e8-4b78-ab16-ce959155a9f4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>20832646-19d8-4d68-8d93-a12c46fdffb2</webElementGuid>
+      <value>https://cdn.myanimelist.net/images/anime/1392/124401.jpg</value>
+      <webElementGuid>b21b7d93-5f81-4d5a-a223-87b309c71fc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;input&quot;]/input[2]</value>
-      <webElementGuid>62d60945-2aab-440a-afd2-211b8482579e</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;anime-title&quot;]/img[1]</value>
+      <webElementGuid>6fb9dfe8-f7ec-42f6-b70d-b6c0984dc6e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(//input[@type='text'])[2]</value>
-      <webElementGuid>b8b0b567-5e33-4c99-8eeb-8e2139b712d0</webElementGuid>
+      <value>//div[@id='app']/div/img</value>
+      <webElementGuid>1ffa469b-4c57-4850-82b8-03a8e0a609d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:img</name>
       <type>Main</type>
-      <value>//div[@id='app']/div[2]/input[2]</value>
-      <webElementGuid>b7f2a710-109f-48b0-a521-9f2b305a2d58</webElementGuid>
+      <value>//img[contains(@src,'https://cdn.myanimelist.net/images/anime/1392/124401.jpg')]</value>
+      <webElementGuid>33cc9173-5425-4ec4-99c2-17cfffea0080</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input[2]</value>
-      <webElementGuid>08259039-220e-4287-ba4d-3f40e4831652</webElementGuid>
+      <value>//img</value>
+      <webElementGuid>3fc098b5-0917-4042-ad65-3c1fdaa6c4d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@placeholder = 'Enter password:' and @type = 'text']</value>
-      <webElementGuid>80f64356-4b7c-400d-b12b-786891596289</webElementGuid>
+      <value>//img[@src = 'https://cdn.myanimelist.net/images/anime/1392/124401.jpg']</value>
+      <webElementGuid>1952a2f2-64cd-4eb0-b94d-3b3ba6d826cb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

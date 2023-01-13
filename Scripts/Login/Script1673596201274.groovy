@@ -21,15 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.click(findTestObject('Object Repository/Page_MAL_Project/Page_MAL_Project/a_Log in'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Page_MAL_Project/Page_MAL_Project/div_Discovery_input'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Page_MAL_Project/Page_MAL_Project/input'), 'TokiDokor')
+WebUI.setText(findTestObject('null'), 'TokiDokor')
 
-WebUI.setText(findTestObject('Object Repository/Page_MAL_Project/Page_MAL_Project/input_1'), 'Milk@081')
+WebUI.setText(findTestObject('null'), 'Milk@081')
 
-WebUI.click(findTestObject('Object Repository/Page_MAL_Project/Page_MAL_Project/button_submit'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Page_MAL_Project/Page_MAL_Project/h4_Hello, TokiDokor'))
+WebUI.click(findTestObject('null'))
 

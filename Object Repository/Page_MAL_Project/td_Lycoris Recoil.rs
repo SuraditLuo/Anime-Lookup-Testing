@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_submit</name>
+   <name>td_Lycoris Recoil</name>
    <tag></tag>
-   <elementGuidId>722472f0-97ad-44c0-9fdd-6e953855369f</elementGuidId>
+   <elementGuidId>091df4a4-c443-450e-9cc8-b002a2a7c525</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/span/button</value>
+         <value>//div[@id='app']/table/tr[2]/td[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button</value>
+         <value>td.name</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>73f74fde-9ef9-4793-bf36-a45c7f03c20b</webElementGuid>
+      <value>td</value>
+      <webElementGuid>a533a544-f49d-4c99-83d0-c7e6fbefad11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>3961f085-b74c-47fd-928a-6f548aa5544a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>51a6441a-1fe4-4b4a-956d-579ecd6cc4ae</webElementGuid>
+      <value>Lycoris Recoil</value>
+      <webElementGuid>d458f0ca-b674-4d5d-8b4e-dcc97f0b808f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/span[1]/button[1]</value>
-      <webElementGuid>8db442fa-06e0-45ff-826a-4848346772f3</webElementGuid>
+      <value>id(&quot;app&quot;)/table[@class=&quot;favorites-list&quot;]/tr[@class=&quot;favorites-detail&quot;]/td[@class=&quot;name&quot;]</value>
+      <webElementGuid>6ad75471-5d9f-4718-b10f-a4637a12b037</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/span/button</value>
-      <webElementGuid>65b9c2ab-dce3-4a1e-9634-d74cec691ecc</webElementGuid>
+      <value>//div[@id='app']/table/tr[2]/td[2]</value>
+      <webElementGuid>aea6822a-8f71-43eb-92e3-0aae845577c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discovery'])[1]/following::button[1]</value>
-      <webElementGuid>2832a359-55b1-4b11-92df-0b1b04316f18</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove from list'])[1]/following::td[2]</value>
+      <webElementGuid>006b11af-7511-4fcb-80d4-42d27d4dab08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anime Lookup'])[1]/following::button[1]</value>
-      <webElementGuid>58411589-a7a4-49a2-b287-4a08ee2d701c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Score'])[1]/following::td[2]</value>
+      <webElementGuid>78a47e68-e487-4567-9c8c-67b79f70e3d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'app', '&quot;', ')/span[1]/button[1]')])[1]/preceding::button[1]</value>
-      <webElementGuid>d20d7526-f79f-48cf-bf72-5a732f09208c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[2]</value>
+      <webElementGuid>6a04b145-3a6f-46cc-9ca4-01d6d6dfe462</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='submit']/parent::*</value>
-      <webElementGuid>9a627a1f-09f8-4c38-885e-8b781e44c06b</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Lycoris Recoil']/parent::*</value>
+      <webElementGuid>e0dae987-58a0-43c5-bdfc-4ff1949f9855</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>f4d0c155-8639-4573-b4db-ce9e17e831cf</webElementGuid>
+      <value>//td[2]</value>
+      <webElementGuid>17d58eb9-de6c-49ab-88dd-e6393bf99c76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'submit' or . = 'submit')]</value>
-      <webElementGuid>abd0a211-12c5-4cbd-8834-dc130e52d82d</webElementGuid>
+      <value>//td[(text() = 'Lycoris Recoil' or . = 'Lycoris Recoil')]</value>
+      <webElementGuid>eb468373-da21-4d72-ac1f-41453cf4fc8a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_1</name>
+   <name>h4_Studio A-1 Pictures</name>
    <tag></tag>
-   <elementGuidId>9a81177d-de24-46e4-a05d-9e6560dbe841</elementGuidId>
+   <elementGuidId>a4e17c30-c342-49d4-96db-ae757fbdc10e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='text'])[2]</value>
+         <value>//div[@id='app']/div/div/h4[4]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,63 +21,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>0ff16497-b38b-4ca7-8dcf-3d704e0e570d</webElementGuid>
+      <value>h4</value>
+      <webElementGuid>c83c99ec-e48f-42d7-b4d9-b899d4e68364</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>text</name>
       <type>Main</type>
-      <value>Enter password:</value>
-      <webElementGuid>ae2b9231-c5e8-4b78-ab16-ce959155a9f4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>20832646-19d8-4d68-8d93-a12c46fdffb2</webElementGuid>
+      <value>Studio: A-1 Pictures</value>
+      <webElementGuid>fceff01d-2b97-4943-8548-4ac8e0f591bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;input&quot;]/input[2]</value>
-      <webElementGuid>62d60945-2aab-440a-afd2-211b8482579e</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;anime-title&quot;]/div[@class=&quot;content-block&quot;]/h4[4]</value>
+      <webElementGuid>ab67eb01-3471-48ba-9641-84fe629dd3b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(//input[@type='text'])[2]</value>
-      <webElementGuid>b8b0b567-5e33-4c99-8eeb-8e2139b712d0</webElementGuid>
+      <value>//div[@id='app']/div/div/h4[4]</value>
+      <webElementGuid>f80af0b7-ef03-4227-9d71-501b9c74cbc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//div[@id='app']/div[2]/input[2]</value>
-      <webElementGuid>b7f2a710-109f-48b0-a521-9f2b305a2d58</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finished Airing'])[1]/following::h4[1]</value>
+      <webElementGuid>acf301bb-f9c5-4d7d-add4-1266e71daa18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Studio: A-1 Pictures']/parent::*</value>
+      <webElementGuid>dc136d01-c008-4b3d-ab2b-bb8f6f9b6109</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input[2]</value>
-      <webElementGuid>08259039-220e-4287-ba4d-3f40e4831652</webElementGuid>
+      <value>//h4[4]</value>
+      <webElementGuid>0af06221-b7f9-4995-a44b-b3527e949c54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@placeholder = 'Enter password:' and @type = 'text']</value>
-      <webElementGuid>80f64356-4b7c-400d-b12b-786891596289</webElementGuid>
+      <value>//h4[(text() = 'Studio: A-1 Pictures' or . = 'Studio: A-1 Pictures')]</value>
+      <webElementGuid>fabb3a17-679e-4f8f-9810-809cdfbc71ca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
